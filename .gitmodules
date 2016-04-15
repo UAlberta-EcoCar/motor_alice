@@ -1,0 +1,9 @@
+[submodule "libraries/FlexCAN_Library"]
+	path = libraries/FlexCAN_Library
+	url = https://github.com/teachop/FlexCAN_Library.git
+[submodule "libraries/Metro-Arduino-Wiring"]
+	path = libraries/Metro-Arduino-Wiring
+	url = https://github.com/thomasfredericks/Metro-Arduino-Wiring.git
+[submodule "libraries/CAN-BUS-MESSAGES"]
+	path = libraries/CAN-BUS-MESSAGES
+	url = https://github.com/UAlberta-EcoCar/CAN-BUS-MESSAGES.git
